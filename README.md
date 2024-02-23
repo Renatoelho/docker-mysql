@@ -6,6 +6,11 @@ Essa funcionalidade é particularmente útil em ambientes onde é necessário co
 
 Em resumo, essa abordagem ***simplifica*** o processo de inicialização e ***configuração*** inicial de bancos de dados MySQL em contêineres Docker, oferecendo uma maneira conveniente e confiável de ***automatizar tarefas*** comuns de configuração.
 
+# Apresentação em vídeo
+
+<p align="center">
+  <a href="https://youtu.be/XXXXXXX" target="_blank"><img src="deploy/thumbnail/docker_mysql.png" alt="Vídeo de apresentação"></a>
+</p>
 
 ### Requisitos
 
