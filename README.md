@@ -9,7 +9,7 @@ Em resumo, essa abordagem ***simplifica*** o processo de inicialização e ***co
 # Apresentação em vídeo
 
 <p align="center">
-  <a href="https://youtu.be/XXXXXXX" target="_blank"><img src="deploy/thumbnail/docker_mysql.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/2eushN-hxbA" target="_blank"><img src="deploy/thumbnail/Docker_MySQL_Youtube.png" alt="Vídeo de apresentação"></a>
 </p>
 
 ### Requisitos
