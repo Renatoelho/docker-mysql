@@ -23,14 +23,14 @@ Em resumo, essa abordagem ***simplifica*** o processo de inicialização e ***co
 + ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-E3E3E3)
 
 
-#### Ativando o serviço
+### Ativando o serviço
 
 ```bash
 docker compose -p docker_mysql -f docker-compose.yaml up -d
 ```
 
 
-#### Desativando os serviços
+### Desativando os serviços
 
 ```bash
 docker compose -p docker_mysql -f docker-compose.yaml down
